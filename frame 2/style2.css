@@ -16,7 +16,7 @@ body{
     justify-content: space-evenly;
     z-index: 99;
     color: rgb(238, 234, 234);
-    background: url("../images/img5.jpg");
+    background: url("img5.jpg");
     transition: 0.4s;
 }
   
